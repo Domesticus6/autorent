@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1519760284 source:d:\praksed2-2\programma\praksenikitakurilovics\main.cpp
+	<iostream>
+	"menu.h"
+	"AdminMenu.h"
+	"UserMenu.h"
+
+1519724674 d:\praksed2-2\programma\praksenikitakurilovics\menu.h
+
+1519760284 source:d:\praksed2-2\programma\praksenikitakurilovics\menu.cpp
+	<iostream>
+	"menu.h"
+
+1519760284 source:e:\praksed2-2\programma\praksenikitakurilovics\main.cpp
+	<iostream>
+	"menu.h"
+	"AdminMenu.h"
+	"UserMenu.h"
+
+1519724674 e:\praksed2-2\programma\praksenikitakurilovics\menu.h
+
+1519759376 source:e:\praksed2-2\programma\praksenikitakurilovics\adminmenu.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"menu.h"
+	"AdminMenu.h"
+
+1519760284 source:e:\praksed2-2\programma\praksenikitakurilovics\menu.cpp
+	<iostream>
+	"menu.h"
+
+1519377458 e:\praksed2-2\programma\praksenikitakurilovics\adminmenu.h
+
+1519759584 source:e:\praksed2-2\programma\praksenikitakurilovics\usermenu.cpp
+	<iostream>
+	"UserMenu.h"
+	<fstream>
+	<string>
+	"menu.h"
+	<windows.h>
+	<sstream>
+	<time.h>
+
+1519715134 e:\praksed2-2\programma\praksenikitakurilovics\usermenu.h
+	<string>
+
+1519069548 e:\praksed2-2\programma\praksenikitakurilovics\main.cpp
+	<iostream>
+	"menu.h"
+	"AdminMenu.h"
+	"UserMenu.h"
+
+1519760968 source:d:\praksed2-2\programma\praksenikitakurilovics\adminmenu.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"menu.h"
+	"AdminMenu.h"
+
+1519377458 d:\praksed2-2\programma\praksenikitakurilovics\adminmenu.h
+
+1519715134 d:\praksed2-2\programma\praksenikitakurilovics\usermenu.h
+	<string>
+
+1519806828 source:d:\praksed2-2\programma\praksenikitakurilovics\usermenu.cpp
+	<iostream>
+	"UserMenu.h"
+	<fstream>
+	<string>
+	"menu.h"
+	<windows.h>
+	<sstream>
+	<time.h>
+
+1519760284 source:d:\praksed2-2\programma\autorent\main.cpp
+	<iostream>
+	"menu.h"
+	"AdminMenu.h"
+	"UserMenu.h"
+
+1519724674 d:\praksed2-2\programma\autorent\menu.h
+
+1519377458 d:\praksed2-2\programma\autorent\adminmenu.h
+
+1519715134 d:\praksed2-2\programma\autorent\usermenu.h
+	<string>
+
+1519760284 source:d:\praksed2-2\programma\autorent\menu.cpp
+	<iostream>
+	"menu.h"
+
+1519806828 source:d:\praksed2-2\programma\autorent\usermenu.cpp
+	<iostream>
+	"UserMenu.h"
+	<fstream>
+	<string>
+	"menu.h"
+	<windows.h>
+	<sstream>
+	<time.h>
+
+1519813596 source:c:\users\kuric\desktop\autorent\adminmenu.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"menu.h"
+	"AdminMenu.h"
+
+1519728274 c:\users\kuric\desktop\autorent\menu.h
+
+1519381058 c:\users\kuric\desktop\autorent\adminmenu.h
+
+1519763884 source:c:\users\kuric\desktop\autorent\main.cpp
+	<iostream>
+	"menu.h"
+	"AdminMenu.h"
+	"UserMenu.h"
+
+1519718734 c:\users\kuric\desktop\autorent\usermenu.h
+	<string>
+
+1519763884 source:c:\users\kuric\desktop\autorent\menu.cpp
+	<iostream>
+	"menu.h"
+
+1519810428 source:c:\users\kuric\desktop\autorent\usermenu.cpp
+	<iostream>
+	"UserMenu.h"
+	<fstream>
+	<string>
+	"menu.h"
+	<windows.h>
+	<sstream>
+	<time.h>
+

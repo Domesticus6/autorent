@@ -1,0 +1,13 @@
+1.auto||df||df||3||dsd||3ˆ/h||ddf||||2.21478e-313eiro||Nikita Po||sakum datums(stundas):2018:12:12 3||beigas datums(stundas):2018:12:13 5
+2.auto||sdfd||dssdf||3||ffdsg||3ˆ/h||df||||2.21478e-313eiro||Nikita Kurilovics||sakum datums(stundas):20187:12:12 3||beigas datums(stundas):2018:12:12 5
+3.auto||Audi||a8||2018||LUX||340ˆ/h||riga||||2.21478e-313eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 3h||beigas datums(stundas): 2017:12:12 5h
+4.auto||Audi||A8||2018||LUX||340ˆ/h||RIGA||||1.26424e+231eiro||Nikiat||sakum datums(stundas): 2018:12:12 3h||beigas datums(stundas): 2018:12:13 4h
+5.auto||Audi||a8||2018||LUX||349ˆ/h||riga||||1.26424e+231eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 3h||beigas datums(stundas): 2018:12:13 5h
+6.auto||Audi||A8||2018||LUX||12ˆ/h||riga||||1.26424e+231eiro||Nikita Kurilovicvs||sakum datums(stundas): 2018:12:12 5h||beigas datums(stundas): 2018:12:12 3h
+7.auto||Audi||A6||2018||lux||340ˆ/h||riga||||1.26424e+231eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 5h||beigas datums(stundas): 2018:12:13 3h
+8.auto||Audi||A8||2018||kux||12ˆ/h||riga||||1.4999e+231eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 3h||beigas datums(stundas): 2018:12:12 6h
+9.auto||Audi||A8||2018||lux||12.56ˆ/h||riga||||276.32eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 5h||beigas datums(stundas): 2018:12:13 3h
+10.auto||Audi||A8||2018||lux||12.56ˆ/h||riga||||276.32eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 5h||beigas datums(stundas): 2018:12:13 3h
+11.auto||Audi||A8||2018||lux||12.56ˆ/h||riga||||25.12eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 3h||beigas datums(stundas): 2018:12:12 5h
+12.auto||Audi||A8||2018||lux||12.56ˆ/h||riga||||276.32eiro||Nikita Kurilovics||sakum datums(stundas): 2018:12:12 5h||beigas datums(stundas): 2018:12:13 3h
+13.auto||Audi||A8||2018||lux||3.4ˆ/h||riga||||10.2eiro||Nikita Kurik||sakum datums(stundas): 2018:12:12 3h||beigas datums(stundas): 2018:12:12 6h
